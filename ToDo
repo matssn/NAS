@@ -1,0 +1,6 @@
+************TO DO**********************
+-Set up Home assistant Docker with Aeotec Z-Wave controller
+-Set up PiHole Docker
+-Set up ubuntu VM for Facial recognision(Movidius)
+-Set up mosquitto Docker
+-Make openMQTTGateway hardware(ESP32)
